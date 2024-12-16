@@ -1,0 +1,11 @@
+.t {
+    background-image: url('../../../../assets/images/tr.png');
+    background-position: center;
+    background-size: cover;
+    max-width: 1120px;
+    margin: auto;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    height: 500px;
+}
